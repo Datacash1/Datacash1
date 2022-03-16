@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Datacash1
+- 👋 Hi, I’m @Datacash1 (Gideon Teibowei from Nigeria
 - 👀 I’m interested in learning SE Engineering and networking with new friends across Africa
 - 🌱 I’m currently learning SE Engineering
 - 💞️ I’m looking to collaborate on Students, Mentors and Tutors across the continent
